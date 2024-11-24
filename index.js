@@ -9,7 +9,7 @@ import {
   ones,
 } from "./types";
 
-function numberToWords(num) {
+export function numberToWords(num) {
   let ArithmeticNumber = Math.floor(num);
   if (num === 0) return "صفر";
   if (num < 0) return "عدد منفی نیست!";
