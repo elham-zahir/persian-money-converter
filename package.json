@@ -1,0 +1,28 @@
+{
+  "name": "rial-toman-converter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "persian",
+    "farsi",
+    "iran",
+    "money",
+    "cash",
+    "converter",
+    "rial",
+    "riaal",
+    "toman",
+    "tomaan"
+  ],
+  "author": "elham-zahir",
+  "license": "MIT",
+  "description": "تبدیل ساده و سبک مقادیر پولی ایرانی (ریال به تومان و برعکس). این پکیج به کاربران این امکان را می‌دهد که مقادیر عددی (تا سه رقم اعشاری) را از ریال به تومان و بالعکس تبدیل کنند. همچنین این پکیج مقادیر عددی را به حروف فارسی تبدیل می‌کند که برای کاربران فارسی‌زبان مفید است. این پلاگین برای اپلیکیشن‌های مالی، پلتفرم‌های تجارت الکترونیک و هر برنامه فارسی‌زبان که نیاز به تبدیل ارز ایرانی دارد، ایده‌آل است.\n\nA simple and lightweight JavaScript package for converting Persian money values between Rial and Toman. This package allows users to convert numerical values (up to three decimal places) from Rial to Toman and vice versa. Additionally, it provides the functionality to convert numeric values into Persian words, making it easier for Persian-speaking users to read and understand monetary amounts in written form. Ideal for financial apps, e-commerce platforms, and any Persian-language applications dealing with currency conversion.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elham-zahir/rial-toman-converter.git"
+  }
+}
